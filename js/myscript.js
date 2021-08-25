@@ -19,3 +19,6 @@ if (verificaEmail == true) {
 else {
   console.log("Mi dispiace, non sei nella lista!");
 }
+
+
+Math.floor(Math.random() * 6) + 1  
